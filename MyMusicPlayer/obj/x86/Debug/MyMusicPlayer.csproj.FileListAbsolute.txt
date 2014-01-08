@@ -1,0 +1,28 @@
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.Form1.resources
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.Properties.Resources.resources
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.exe
+C:\Users\sam\AppData\Local\Temporary Projects\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.pdb
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.exe
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.pdb
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.Form1.resources
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\MyMusicPlayer.Properties.Resources.resources
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam\Documents\Visual Studio 2010\Projects\MyMusicPlayer\MyMusicPlayer\obj\x86\Debug\GenerateResource.write.1.tlog
